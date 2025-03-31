@@ -1,0 +1,101 @@
+id,name,product_name,category,price,quantity,date,region,status,discount,total
+1,"Burns, Howard and Lynn",Fusion CoreStratos X,tools,276.84,6,2025-03-14,EU,Pending,3.0%,1611.21
+2,"Mayo, Fuentes and Gross",Sonic Beam,Beauty,939.44,15,2025-03-14,Asia,Delivered,30.0%,9864.12
+3,Trujillo PLC,Zenith Elite,Beauty,514.94,14,2025-03-14,US,Pending,27.0%,5262.69
+4,"Garcia, White and Nixon",Optima Ultra,Clothing,934.3,17,2025-03-14,South America,Pending,19.0%,12865.31
+5,Williams PLC,Spectrum Air,Home,874.72,12,2025-03-14,Asia,Returned,26.0%,7767.51
+6,Clements Ltd,Astra Prime,cars,59.55,8,2025-03-14,US,Returned,8.0%,438.29
+7,Jones-King,Cyber Shield,Clothing,589.43,9,2025-03-14,EU,Returned,13.0%,4615.24
+8,"Randall, Anderson and Stewart",Optima Ultra,tools,449.84,20,2025-03-14,US,Returned,4.0%,8636.93
+9,Weber Group,Vortex Max,Clothing,399.87,3,2025-03-14,North America,Delivered,28.0%,863.72
+10,Lowery-Norton,Solar Max,Electronics,158.95,15,2025-03-14,North America,Returned,24.0%,1812.03
+11,"Green, Velasquez and Sanchez",Quantum Plus,Beauty,769.05,4,2025-03-14,US,Pending,19.0%,2491.72
+12,Gillespie-Gibbs,Hyper Nova,Home,127.49,4,2025-03-14,South America,Delivered,0.0%,509.96
+13,"Brown, Waters and Brown",Titan Edge,cars,127.68,3,2025-03-14,South America,Shipped,12.0%,337.08
+14,Mcdonald Ltd,Vision Lite,Toys,221.02,13,2025-03-14,US,Pending,8.0%,2643.4
+15,Lewis Group,Zenith Elite,Toys,784.47,1,2025-03-14,South America,Shipped,13.0%,682.49
+16,"Jordan, Aguirre and Bailey",Quantum Plus,Clothing,990.06,7,2025-03-14,EU,Delivered,11.0%,6168.07
+17,Keller LLC,Sonic Beam,Beauty,42.63,4,2025-03-14,EU,Returned,30.0%,119.36
+18,Villa-Perez,Nova Basic,Beauty,456.26,10,2025-03-14,North America,Delivered,22.0%,3558.83
+19,"Carroll, Edwards and Butler",Quantum Plus,Home,805.82,5,2025-03-14,EU,Pending,27.0%,2941.24
+20,Rodriguez-Taylor,Pulse X,Beauty,261.52,16,2025-03-14,EU,Delivered,22.0%,3263.77
+21,Pruitt LLC,Fusion CoreStratos X,Home,482.15,9,2025-03-14,US,Pending,16.0%,3645.05
+22,"Evans, Ellis and Clark",Pulse X,Clothing,762.43,16,2025-03-14,US,Delivered,0.0%,12198.88
+23,Everett-Bradley,Optima Ultra,Toys,179.51,1,2025-03-14,EU,Shipped,14.0%,154.38
+24,"Zuniga, Carlson and Lynn",Optima Ultra,Clothing,933.45,18,2025-03-14,US,Returned,12.0%,14785.85
+25,Simmons-Griffith,Hyper Nova,Toys,749.14,11,2025-03-14,EU,Shipped,24.0%,6262.81
+26,"Brown, Patton and Brown",Spectrum Air,cars,342.62,4,2025-03-14,US,Delivered,16.0%,1151.2
+27,"Brown, Nelson and Lynch",Sonic Beam,Home,947.12,19,2025-03-14,South America,Delivered,6.0%,16915.56
+28,Smith-Williams,Pulse X,tools,652.18,15,2025-03-14,South America,Pending,6.0%,9195.74
+29,"Fuller, Brown and Moreno",Pulse X,Home,285.6,14,2025-03-14,North America,Delivered,1.0%,3958.42
+30,"Cooper, Bowman and Morse",Titan Edge,Beauty,676.24,2,2025-03-14,North America,Pending,27.0%,987.31
+31,Ramirez-Anthony,Hyper Nova,Beauty,334.67,5,2025-03-14,South America,Shipped,10.0%,1506.02
+32,Ford and Sons,Astra Prime,Electronics,223.55,6,2025-03-14,Asia,Shipped,16.0%,1126.69
+33,"Williams, Ramirez and Gonzales",Neon Plus,tools,26.54,18,2025-03-14,EU,Delivered,0.0%,477.72
+34,"Nelson, Clark and Wood",Vision Lite,tools,288.85,17,2025-03-14,South America,Shipped,10.0%,4419.41
+35,Berry and Sons,Zenith Elite,Toys,227.16,10,2025-03-14,South America,Pending,12.0%,1999.01
+36,Moore Ltd,Fusion CoreStratos X,cars,682.64,18,2025-03-14,EU,Shipped,3.0%,11918.89
+37,"Rivera, Perkins and Ryan",Sonic Beam,Clothing,721.95,4,2025-03-14,Asia,Pending,9.0%,2627.9
+38,"James, Morris and Mckenzie",Cyber Shield,cars,151.64,16,2025-03-14,EU,Returned,2.0%,2377.72
+39,"Newton, Hall and Callahan",Astra Prime,Toys,153.6,19,2025-03-14,Asia,Pending,4.0%,2801.66
+40,Gay Inc,Sonic Beam,Clothing,98.42,5,2025-03-14,US,Delivered,15.0%,418.29
+41,Parks-Howard,Zenith Elite,Electronics,113.91,19,2025-03-14,North America,Returned,1.0%,2142.65
+42,Williams-Garcia,Solar Max,Toys,321.59,4,2025-03-14,US,Pending,13.0%,1119.13
+43,Reeves PLC,Nimbus Lite,Clothing,292.63,15,2025-03-14,EU,Delivered,30.0%,3072.61
+44,"Jones, Mitchell and Wilson",Fusion CoreStratos X,tools,562.12,4,2025-03-14,South America,Delivered,5.0%,2136.06
+45,"Taylor, Taylor and Griffith",Zenith Elite,cars,167.59,13,2025-03-14,Asia,Returned,1.0%,2156.88
+46,Russell PLC,Optima Ultra,Beauty,642.07,4,2025-03-14,North America,Returned,5.0%,2439.87
+47,"Dalton, Cunningham and Castaneda",Sonic Beam,tools,550.84,11,2025-03-14,South America,Delivered,29.0%,4302.06
+48,Harding-Wise,Optima Ultra,Home,994.94,15,2025-03-14,Asia,Delivered,16.0%,12536.24
+49,Byrd-Cooke,Solar Max,Toys,342.54,3,2025-03-14,EU,Pending,22.0%,801.54
+50,Smith Group,Solar Max,tools,569.33,19,2025-03-14,US,Pending,5.0%,10276.41
+51,"Simpson, Moody and Sutton",Zenith Elite,tools,714.55,16,2025-03-14,South America,Pending,1.0%,11318.47
+52,Thomas Inc,Hyper Nova,cars,95.69,15,2025-03-14,South America,Shipped,22.0%,1119.57
+53,Thomas-Ramos,Sonic Beam,Home,537.77,19,2025-03-14,US,Pending,23.0%,7867.58
+54,Blankenship-Warner,Cyber Shield,Home,367.57,11,2025-03-14,Asia,Returned,23.0%,3113.32
+55,"Fletcher, Ray and Smith",Nova Basic,Home,55.76,20,2025-03-14,US,Shipped,21.0%,881.01
+56,Brown-Ellis,Vortex Max,Electronics,691.09,12,2025-03-14,South America,Delivered,15.0%,7049.12
+57,White-Hall,Sonic Beam,Electronics,409.45,10,2025-03-14,Asia,Delivered,28.0%,2948.04
+58,Williams LLC,Optima Ultra,Toys,938.13,17,2025-03-14,Asia,Delivered,14.0%,13715.46
+59,"Cunningham, Vincent and Porter",Alpha Pro,tools,466.76,12,2025-03-14,Asia,Returned,6.0%,5265.05
+60,Phillips PLC,Echo Ultra,cars,800.19,11,2025-03-14,South America,Pending,30.0%,6161.46
+61,"Harrison, Christian and Arnold",Sonic Beam,tools,141.26,20,2025-03-14,South America,Returned,15.0%,2401.42
+62,Perkins-Robinson,Quantum Plus,Electronics,741.01,10,2025-03-14,Asia,Delivered,25.0%,5557.58
+63,"Hardin, Todd and Flores",Fusion CoreStratos X,Electronics,914.12,10,2025-03-14,Asia,Pending,15.0%,7770.02
+64,Suarez-Cummings,Spectrum Air,cars,482.55,4,2025-03-14,Asia,Delivered,4.0%,1852.99
+65,"Johnson, Russell and Willis",Cyber Shield,tools,715.4,9,2025-03-14,North America,Returned,14.0%,5537.2
+66,Wilson-Burns,Neon Plus,tools,724.78,1,2025-03-14,Asia,Shipped,1.0%,717.53
+67,"Fuller, Gray and Benson",Neon Plus,tools,417.06,5,2025-03-14,South America,Shipped,16.0%,1751.65
+68,"Wilson, Gordon and Smith",Solar Max,cars,579.59,15,2025-03-14,US,Pending,7.0%,8085.28
+69,Graham-Pham,Astra Prime,tools,693.0,2,2025-03-14,South America,Delivered,17.0%,1150.38
+70,Berry PLC,Neon Plus,Beauty,525.58,3,2025-03-14,Asia,Returned,19.0%,1277.16
+71,Miller Inc,Solar Max,Home,169.4,5,2025-03-14,Asia,Returned,22.0%,660.66
+72,Molina and Sons,Sonic Beam,Toys,393.6,15,2025-03-14,EU,Returned,2.0%,5785.92
+73,Jones-Johnson,Astra Prime,cars,224.69,6,2025-03-14,Asia,Delivered,17.0%,1118.96
+74,"Beasley, Green and Weiss",Nova Basic,Electronics,555.83,17,2025-03-14,US,Shipped,4.0%,9071.15
+75,"Hopkins, Fox and Mayer",Nova Basic,Clothing,870.93,1,2025-03-14,US,Returned,23.0%,670.62
+76,Fuentes Ltd,Spectrum Air,Electronics,734.98,5,2025-03-14,EU,Delivered,15.0%,3123.66
+77,"Gilbert, White and Rodriguez",Vortex Max,Clothing,35.88,10,2025-03-14,North America,Pending,21.0%,283.45
+78,"Lopez, Cooper and Chan",Pulse X,Beauty,836.43,20,2025-03-14,EU,Shipped,5.0%,15892.17
+79,Jimenez-Navarro,Vortex Max,tools,265.94,14,2025-03-14,EU,Shipped,4.0%,3574.23
+80,"Duncan, Patton and Chambers",Titan Edge,Electronics,116.56,12,2025-03-14,Asia,Returned,20.0%,1118.98
+81,Harding Inc,Echo Ultra,Beauty,660.85,19,2025-03-14,North America,Shipped,5.0%,11928.34
+82,Morris-Wilson,Spectrum Air,Toys,167.09,14,2025-03-14,EU,Delivered,19.0%,1894.8
+83,Waters-Smith,Zenith Elite,tools,79.69,16,2025-03-14,North America,Pending,28.0%,918.03
+84,"Hanna, Sherman and Gardner",Nimbus Lite,Beauty,890.22,15,2025-03-14,Asia,Pending,11.0%,11884.44
+85,"Rodriguez, Barker and Ruiz",Pulse X,cars,131.3,14,2025-03-14,Asia,Shipped,23.0%,1415.41
+86,Weber Group,Neon Plus,cars,470.89,4,2025-03-14,EU,Shipped,28.0%,1356.16
+87,Martin-Williams,Pulse X,Toys,321.43,3,2025-03-14,US,Delivered,19.0%,781.07
+88,Martin-Silva,Nimbus Lite,Toys,582.16,16,2025-03-14,South America,Shipped,21.0%,7358.5
+89,Smith-Abbott,Echo Ultra,Toys,911.63,10,2025-03-14,EU,Pending,8.0%,8387.0
+90,"Tucker, Berry and Patterson",Cyber Shield,cars,507.0,12,2025-03-14,South America,Pending,0.0%,6084.0
+91,"Barnett, Flores and Levy",Vision Lite,Home,325.19,12,2025-03-14,North America,Delivered,12.0%,3434.01
+92,"Ray, Dominguez and Moyer",Nova Basic,cars,972.78,7,2025-03-14,North America,Pending,22.0%,5311.38
+93,Bolton and Sons,Solar Max,Electronics,299.87,13,2025-03-14,Asia,Returned,27.0%,2845.77
+94,"Barnes, Mccann and Franklin",Cyber Shield,Clothing,723.76,17,2025-03-14,South America,Pending,19.0%,9966.18
+95,Brooks-Hunter,Echo Ultra,Beauty,26.52,4,2025-03-14,South America,Delivered,10.0%,95.47
+96,Williams-Sexton,Zenith Elite,Clothing,339.97,17,2025-03-14,North America,Delivered,24.0%,4392.41
+97,"Salinas, Mueller and Martinez",Cyber Shield,cars,385.53,15,2025-03-14,South America,Pending,7.0%,5378.14
+98,Rivera-Webb,Cyber Shield,Clothing,819.24,12,2025-03-14,Asia,Pending,11.0%,8749.48
+99,Hutchinson Ltd,Nimbus Lite,Beauty,132.28,12,2025-03-14,South America,Shipped,3.0%,1539.74
+100,Kelly Group,Nimbus Lite,Beauty,242.01,10,2025-03-14,Asia,Returned,13.0%,2105.49
